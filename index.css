@@ -1,3 +1,9 @@
 h1 {
-  Display:
+  display: flex;
+  background-color: black;
+  color: white;
+}
+
+.img {
+  justify-items: left;
 }
