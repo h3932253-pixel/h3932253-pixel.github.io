@@ -2,8 +2,18 @@ h1 {
   display: flex;
   background-color: black;
   color: white;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
 }
 
 .img {
-  justify-items: left;
+  justify-items: center;
+}
+
+p {
+  margin-top: 100px;
+  display: flex;
+  justify-content: center;
+
 }
