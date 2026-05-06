@@ -17,5 +17,5 @@ h1 {
 .PPP {
  flex: 1;                /* 남은 공간을 글자가 꽉 채우도록 설정 */
  line-height: 1.6;       /* 줄 간격을 넓혀서 읽기 편하게 */
- font-size: 30px;
+ font-size: 20px;
 }
